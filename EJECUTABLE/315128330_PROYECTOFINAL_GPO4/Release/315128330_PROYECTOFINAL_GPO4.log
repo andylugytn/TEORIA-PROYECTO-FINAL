@@ -1,0 +1,21 @@
+﻿  315128330_PROYECTOFINAL_GPO4.cpp
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(187,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(196,47): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(869,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(870,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(874,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(875,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(877,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4\315128330_PROYECTOFINAL_GPO4.cpp(878,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  1 of 621 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(etc1_utils.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  315128330_PROYECTOFINAL_GPO4.vcxproj -> C:\Users\Spare Station\Desktop\Lab Computación Gráfica\315128330_PROYECTOFINAL_GPO4\Release\315128330_PROYECTOFINAL_GPO4.exe
